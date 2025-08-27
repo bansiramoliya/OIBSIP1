@@ -1,6 +1,12 @@
 pandas
-numpy 
-matplotlib.
-express 
-io 
+numpy
+matplotlib
 seaborn
+plotly
+scikit-learn
+nltk
+textblob
+wordcloud
+jupyter
+openpyxl
+tqdm
